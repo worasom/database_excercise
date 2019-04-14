@@ -16,6 +16,9 @@
     * How to setup an SQLite server and populate tables
     * Insert, delete colums from the tables
     * Query the table and output as dataframe
-    * Aggregation
+    * Filter query using WHERE, AND, OR, IS NULL, LIKE 
+    * Aggregation using GROUP BY
+    * ORDER BY 
+    * AS for aliasing
     * Create index
-    * Join
+    * Joins
